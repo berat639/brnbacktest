@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_arena_brn_arenas",
+  "info": {
+    "displayName": "BRN Arena",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "ArenaMode": {
+      "type": "component",
+      "repeatable": true,
+      "component": "modes.mode"
+    }
+  }
+}

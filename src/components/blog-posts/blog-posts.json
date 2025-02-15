@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_blog_posts_blog_posts",
+  "info": {
+    "displayName": "BlogPosts",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "PostTitle": {
+      "type": "text"
+    },
+    "miniDescription": {
+      "type": "text",
+      "maxLength": 80
+    }
+  }
+}

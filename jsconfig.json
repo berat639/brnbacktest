@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "module": "CommonJS",
+    "target": "es6",
+    "checkJs": false,
+    "allowJs": true
+  },
+  "compileOnSave": false
+}
